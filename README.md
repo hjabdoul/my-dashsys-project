@@ -1,9 +1,10 @@
 # my-dashsys-project
 
-Dépendence : 
+Dépendences : 
 
-Python3 
-Requests
+-Python3/ pip / venv 
+- Requests
+-psutil
 
 Listes des commandes à effectuer :  
 
